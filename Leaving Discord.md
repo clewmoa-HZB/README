@@ -1,4 +1,4 @@
-# Je quitte Discord
+# Je quitte Discord - Rédigé par moi même
 
 ## Pourquoi je quitte Discord et pourquoi vous devriez faire de même :
 
@@ -51,3 +51,73 @@ les fonctionnalités que propose Discord aujourd'hui.
 Voici quelques logiciels alternatifs à Discord:
 - TeamSpeak 3
 - Zulip
+
+---
+
+# Je quitte Discord - rédigé avec l'aide de l'IA
+
+## Discord : Pourquoi partir et vers où se diriger ?
+
+Après 5 ans d'utilisation, le constat est amer pour beaucoup : Discord n'est plus l'espace communautaire centré sur l'utilisateur qu'il était à ses débuts. Voici une analyse des enjeux actuels.
+
+### 1. Pourquoi Discord change de politique ?
+
+Le changement de modèle économique et la pression des régulateurs poussent l'entreprise vers des pratiques plus intrusives :
+
+- Rentabilité et IA : Pour justifier sa valorisation, Discord doit monétiser ses données. L'entraînement de modèles d'intelligence artificielle (LLM) sur les messages des utilisateurs est devenu une mine d'or.
+
+- Pression Réglementaire (Online Safety) : Les nouvelles lois mondiales (UK, Australie, UE) imposent une protection accrue des mineurs. Discord utilise cela comme levier pour généraliser des outils de surveillance.
+
+- Publicité Ciblée : Discord s'éloigne du modèle "Nitro-only" pour intégrer des publicités (Quests) et nécessite donc un profilage plus précis des utilisateurs.
+
+### 2. Une invasion de la vie privée
+
+La plateforme a franchi plusieurs "lignes rouges" en 2024 et 2025 :
+
+- Vérification d'identité intrusive : L'obligation (ou la forte incitation) de soumettre des selfies vidéo ou des pièces d'identité officielles pour "vérifier l'âge".
+
+  - Risque : Ces données sont stockées par des tiers. En octobre 2025, une fuite massive a exposé les IDs de millions d'utilisateurs.
+
+- Modèle d'Inférence d'Âge : Un système d'IA tourne en arrière-plan pour analyser vos habitudes (jeux joués, heures de connexion, vocabulaire) afin de "deviner" votre âge.
+
+- Collecte pour l'IA : Sauf modification manuelle (parfois complexe) des paramètres, vos conversations privées et de serveurs peuvent servir à entraîner des chatbots.
+
+- Fin des recours collectifs : Les nouvelles CGU imposent souvent une clause d'arbitrage obligatoire, empêchant les utilisateurs de poursuivre l'entreprise en justice de manière groupée en cas de faille de sécurité.
+
+### 3. Les alternatives sur le marché
+
+Selon votre priorité (gaming, vie privée ou professionnel), voici les meilleures options :
+
+#### Pour la Vie Privée Radicale (Chiffrement Total)
+
+1. Element (protocole Matrix) :
+  - Avantages : Décentralisé, aucun serveur central unique, chiffrement de bout en bout par défaut.
+  - Exemple : Vous pouvez auto-héberger votre propre serveur pour une souveraineté totale.
+
+2. Signal :
+  - Avantages : La référence absolue pour la sécurité des messages et appels. Sans but lucratif, aucune métadonnée collectée.
+
+#### Pour le Gaming et les Communautés
+
+1. Revolt :
+  - Avantages : L'alternative la plus proche visuellement de Discord. Open-source, respectueux de la vie privée, et gratuit.
+
+2. Guilded :
+  - Avantages : Très complet pour les guildes (calendriers, tournois).
+  - Attention : Appartient à Roblox, donc la politique de données reste à surveiller.
+
+#### Pour la Communication Vocale Pure
+
+1. Mumble :
+  - Avantages : Très léger, latence ultra-faible, open-source. Idéal pour les raids en jeu sans fioritures sociales.
+
+2. TeamSpeak :
+  - Avantages : Toujours une valeur sûre pour la stabilité vocale, avec des options de sécurité renforcées dans ses versions récentes.
+
+Résumé des étapes pour sécuriser votre départ
+
+1. Désactivation de l'entraînement IA : Dans Paramètres > Confidentialité, désactivez "Utiliser les données pour améliorer nos services".
+
+2. Demande RGPD : Avant de supprimer votre compte, demandez une copie de vos données pour voir ce que Discord sait sur vous.
+
+3. Migration : Choisissez une plateforme comme Element ou Revolt et invitez vos contacts proches avant la clôture définitive.
