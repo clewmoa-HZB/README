@@ -17,9 +17,9 @@ de vie privée. Voici les mesures prises par Discord :
   - Si vous ne fournissez pas de moyen d'identifier votre âge,
   votre compte sera considéré comme un compte "ado" par défaut
   - La vérification de votre pièce d'identité se fait par un service tier à Discord
-  >[!CAUTION]
-  On notera bien que ce service a par ailleurs été victime d'un brèche de données
-  qui a laissé plus de 70 000 pièces d'identité dans la nature, mais c'est "OK"
+>[!CAUTION]
+On notera bien que ce service a par ailleurs été victime d'un brèche de données
+qui a laissé plus de 70 000 pièces d'identité dans la nature, mais c'est "OK"
 
 En bref, tous ces points font que Discord n'est plus sûr
 
