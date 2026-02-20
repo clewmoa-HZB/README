@@ -44,6 +44,15 @@ Roblox, Discord ainsi que d'autres plateformes restreignent l'accessibilité des
 au lieu de bannir les personnes malveillantes.
 Ce qui est, à mon sens, pas la bonne manière de faire.
 
+## De multiples mensonges
+Discord disait supprimer les cartes d'identité presque immédiatement après avoir effectué votre vérification d'identité via leur support, Ce qui n'était pas le cas d'après la brèche de données d'Octobre 2025.\
+Par la suite, Discord a voulu rassurer ses utilisateurs en affirmant que leurs cartes d'identité ne seraient envoyés à aucun tiers et que la vérification se ferait directement sur l'appareil de l'utilisateur.\
+Cette information a été reformulé sur Twitter. En effet, Discord a très rapidement clarifié le procédé de vérification d'identité. Si l'on se tient aux informations données par Discord,vos informations seront donc bien envoyés à un "tiers de confiance" mais immédiatement supprimés après que la vérification soit effectuée.\
+Cette information est **encore et une nouvelle fois fausse** puisque le "partenaire/tiers de confiance" est *Persona* qui est une entreprise qui **conserve et sauvegarde toutes informations transmises**.
+
+>[!IMPORTANT]
+Donc pour conclure, Discord nous ment depuis plusieurs années, conserve des données qu'ils promessent de supprimer et surtout ils continuent de créer des mensonges en faisant croire que c'est en changeant de tiers de confiance que leur politique de sauvegarde de vos données personnelles changeront
+
 ## Des alternatives à Discord ?
 
 Oui, il y en a mais elles sont encore trop peu développées, et ne propose pas toutes
